@@ -7,7 +7,7 @@
 
 ![Image](https://github.com/gavrigd/KibHack/blob/main/In%20search%20of%20a%20miracle/aircraft.jpg)
 
-## Решения
+## РешениЯ
 ### Дисклеймер: это авторские способы решения. Ваши варианты, методы и источники могут отличаться!
 ## Способ 1:
 
