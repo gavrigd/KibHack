@@ -1,2 +1,2 @@
 # KibHack
-Write Ups for KibHack
+Osint write ups for KibHack
